@@ -1,0 +1,25 @@
+{
+  "name": "kawesqar-class-model",
+  "version": "1.0.1",
+  "description": "A package with model class for kawesqar project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omargomezg/kawesqar-models.git"
+  },
+  "author": "Omar Gómez <omar.gomez@outlook.cl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omargomezg/kawesqar-models/issues"
+  },
+  "homepage": "https://github.com/omargomezg/kawesqar-models#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
