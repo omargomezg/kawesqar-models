@@ -1,6 +1,6 @@
 {
   "name": "kawesqar-class-model",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A package with model class for kawesqar project",
   "main": "index.js",
   "scripts": {
