@@ -1,4 +1,4 @@
-import { PaymentMethodEnum } from "../models/enum/PaymentMethodEnum";
+import { PaymentMethodEnum } from "../enum/PaymentMethodEnum";
 import { Bank } from "./Bank";
 import { ProofOfPurchase } from "./ProofOfPurchase";
 

@@ -8,4 +8,8 @@ export class Bank {
     isActive: boolean;
     cheques: ChequePago[];
     payments: Payment[];
+
+    constructor() {
+
+    };
 }
