@@ -1,11 +1,10 @@
-import { Branch } from "./Branch";
-import { SystemUser } from "./SystemUser";
+import { Branch } from './Branch';
+import { SystemUser } from './SystemUser';
 
 export class RelationSystemUserBranch {
-
-    id: number;
-    isActive: boolean;
-    branch: Branch;
-    systemUser: SystemUser;
-
+  public id: number;
+  public isActive: boolean;
+  public isSelected: boolean;
+  public branch: Branch;
+  public systemUser: SystemUser;
 }

@@ -1,6 +1,6 @@
 {
   "name": "kawesqar-class-model",
-  "version": "1.0.10",
+  "version": "1.0.13",
   "description": "A package with model class for kawesqar project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/omargomezg/kawesqar-models#readme",
   "dependencies": {
-    "@types/jest": "^24.0.23"
+    "@types/jest": "^24.0.23",
+    "user": "^0.0.0"
   },
   "devDependencies": {
     "jest": "^24.9.0",

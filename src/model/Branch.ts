@@ -20,9 +20,10 @@ export class Branch {
     rutRepLegal: string;
     nombreRepLegal: string;
     fax: string;
-    Giro: string;
+    giro: string;
     registroContado: boolean;
     numInicialRegContado: number;
+    updated: Date;
     legalRepresentative: SystemUser;
     stores: RelationStoreBranch[];
     proofOfPurchase: ProofOfPurchase[];
